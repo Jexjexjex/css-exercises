@@ -1,6 +1,5 @@
 .odd {
-    background-color: rgb(209, 68, 158); fo
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(209, 68, 158); font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 /*"." is for classes and "#" are for Ids*/
 .odd.cooler{
